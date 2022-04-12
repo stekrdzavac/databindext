@@ -14,3 +14,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "databindext"
 include(":app")
+include(":lib")
