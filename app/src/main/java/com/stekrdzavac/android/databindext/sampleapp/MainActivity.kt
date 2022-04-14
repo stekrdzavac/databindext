@@ -1,4 +1,4 @@
-package com.kibster.android.databindext.sampleapp
+package com.stekrdzavac.android.databindext.sampleapp
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity

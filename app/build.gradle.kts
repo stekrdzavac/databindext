@@ -7,7 +7,7 @@ android {
     compileSdk = 32
 
     defaultConfig {
-        applicationId = "com.kibster.android.databindext.sampleapp"
+        applicationId = "com.stekrdzavac.android.databindext.sampleapp"
         minSdk = 19
         targetSdk = 32
         versionCode = 1

@@ -1,4 +1,4 @@
-package com.kibster.android.databindextensions
+package com.stekrdzavac.android.databindextensions
 
 import android.widget.TextView
 import androidx.core.content.ContextCompat
